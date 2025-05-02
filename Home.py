@@ -48,21 +48,21 @@ with col3:
         **Tech Stack**: Python, Seaborn, Matplotlib, Scikit Learn  
         - Predicting house price based on its features    
         """)
-        st.markdown("[GitHub Repository](https://github.com) 🔗")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/California_House_Price) 🔗")
 
     with st.expander("📖 Book Recommendation"):
         st.write("""
         **Tech Stack**: Scikit Learn, Pickel, Pandas  
         - Recommending books based on selected fav. books  
         """)
-        st.markdown("[Live Demo](https://streamlit.io) 🌐")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/Book_Recommendation) 🌐")
 
     with st.expander("📊 Linear Regression"):
         st.write("""
         **Tech Stack**: Numpy, Plotly, Matplotlib, Pandas  
         - Interactive Linear Regression with Gradient Descentt    
         """)
-        st.markdown("[GitHub Repository](https://github.com) 🔗")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/Linear_Regression) 🔗")
 
 with col4:
     with st.expander("🧮 Monte Carlo π Estimation"):
@@ -70,21 +70,21 @@ with col4:
         **Tech Stack**: Numpy, Matplotlib  
         - Estimating π using Monte Carlo Simulation    
         """)
-        st.markdown("[GitHub Repository](https://github.com) 🔗")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/Monte_Carlo_%CF%80_Estimation) 🔗")
 
     with st.expander("🦠 Covid Visualization"):
         st.write("""
         **Tech Stack**: Streamlit, Numpy, Pandas, Plotly  
         - Visualizing the spread of covid 19 virus    
         """)
-        st.markdown("[Live Demo](https://streamlit.io) 🌐")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/Covid) 🌐")
 
     with st.expander("🐧Penguine Classification"):
         st.write("""
         **Tech Stack**: Python, Scikit Learn, Numpy, Pandas  
         -  Classifying bread of penguine based on several parameters 
         """)
-        st.markdown("[GitHub Repository](https://github.com) 🔗")
+        st.markdown("[Live Demo](https://nooriya.streamlit.app/Penguine_Classification) 🔗")
 
 st.markdown("---")
 

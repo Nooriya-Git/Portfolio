@@ -18,7 +18,7 @@ df['Price'] = california.target
 # Streamlit app
 st.title('🏠 California House Price Prediction')
 st.write('Predicting house prices using machine learning')
-st.header('House Featuress')
+st.header('House Features')
 # Main layout columns
 col1, col2 = st.columns([1, 1])
 
